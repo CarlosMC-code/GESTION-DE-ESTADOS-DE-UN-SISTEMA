@@ -43,9 +43,18 @@ Aquí van las capturas del programa funcionando:
 
 
 * Registro
+
+<img width="340" height="142" alt="Screenshot_2" src="https://github.com/user-attachments/assets/382b9783-5620-46da-85b1-fc8f70dffdac" />
+
+
 * Listado
+
+<img width="323" height="234" alt="Screenshot_3" src="https://github.com/user-attachments/assets/13149ad7-4111-4687-b2c5-33d4d1bc6240" />
+
+
 * Cambio de estado
 
+<img width="313" height="191" alt="cambio de estado" src="https://github.com/user-attachments/assets/17475fdc-bfa0-4648-b9d7-120a2bac8f99" />
 
 
 ## Conclusión
