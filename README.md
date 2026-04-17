@@ -38,6 +38,10 @@ Para solucionarlo, usé un enum, así los estados son fijos y no se pueden escri
 Aquí van las capturas del programa funcionando:
 
 * Menú
+
+<img width="315" height="195" alt="menu" src="https://github.com/user-attachments/assets/f1e3c0ac-d919-4cec-ba64-0c8366b80191" />
+
+
 * Registro
 * Listado
 * Cambio de estado
