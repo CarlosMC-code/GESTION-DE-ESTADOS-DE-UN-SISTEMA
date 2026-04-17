@@ -103,7 +103,7 @@
 
                 solicitudes.Add(s);
 
-                Console.WriteLine("✔ Solicitud registrada.");
+                Console.WriteLine("Solicitud registrada.");
             }
 
             static void MostrarTodas()
@@ -152,7 +152,7 @@
 
                     solicitud.Estado = (EstadoSolicitud)opcion;
 
-                    Console.WriteLine("✔ Estado actualizado.");
+                    Console.WriteLine("Estado actualizado.");
                 }
                 else
                 {
